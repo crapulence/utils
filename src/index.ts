@@ -1,7 +1,6 @@
 export * from './date'
 export * from './descartes'
 export * from './file'
-export * from './htmlToPdf'
 export * from './number'
 export * from './swap'
 export * from './system'
