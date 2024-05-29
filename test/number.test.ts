@@ -1,5 +1,5 @@
 import { expect, it } from 'vitest'
-import { findMissingNumber } from '../src/findMissingNumber'
+import { findMissingNumber } from '../src/number'
 
 it('find missing number', () => {
   expect(findMissingNumber([1, 2, 4, 5, 6])).toStrictEqual([3])
